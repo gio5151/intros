@@ -1,0 +1,33 @@
+h1 {
+  font-family: 'Comic Sans MS';
+  font-size: 56px;
+  line-height: 100%;
+  background-color: black;
+  color: green;
+  text-align: center;
+  margin: 25px;
+  padding: 15px;
+}
+/* using h1 so that css code affects h1 of html */
+h2 {
+  font-family: 'Times new Roman';
+  font-size: 44px;
+  line-height: 80%;
+  background-color: aqua;
+  color: rgb(19, 0, 128);
+  text-align: left;
+  margin: auto;
+  padding: 10px;
+}
+/* the text-align is used to align text either to center, left, or right */
+h3 {
+  font-family: 'Comic Sans MS';
+  font-size: 40px;
+  line-height: 70%;
+  background-color: black;
+  color: rgb(13, 233, 222);
+  text-align: right;
+  margin: auto;
+  padding: 10px;
+}
+/* background color affects the header specifically */
